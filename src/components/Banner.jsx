@@ -2,23 +2,21 @@ const Banner = () => {
   return (
     <section class="banner-part float-start w-100">
       <figure class="m-0">
-        <img alt="bg-img" src="images/land-banner.jpg" />
+        <img alt="bg-img" src="images/bg1.jpg" />
       </figure>
       <div class="container d-grid align-content-center">
         <div class="col-md-7">
           <div class="text-banner">
-            <h6> Welcome to Utiy</h6>
+            <h6> Welcome to FPSK</h6>
             <h1 class="mt-4 mb-4 text-white">
-              Makes <b>Secure </b> Your
-              <span class="d-block d-xl-block"> Retirement Planing </span>{" "}
+              Fodder and Pasture Society
+              <span class="d-block d-xl-block"> of Kenya </span>{" "}
             </h1>
             <p class="col-lg-9">
-              {" "}
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's{" "}
+              Together – Repositioning the Fodder and Pasture Value Chains in
+              Kenya for a Competitive Livestock Sub sector.
             </p>
-            <a href="index.html#" class="btn mt-5 get-st">
-            </a>
+            <a href="index.html#" class="btn mt-5 get-st"></a>
           </div>
         </div>
       </div>

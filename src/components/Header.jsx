@@ -9,12 +9,12 @@ const Header = () => {
             </a>
             <div class="right-menu-rd d-flex d-lg-none">
               <div class="d-flex align-items-center">
-                <a href="index.html#" class="btn btn-login">
+                {/* <a href="index.html#" class="btn btn-login">
                   Login
                 </a>
                 <a href="index.html#" class="btn btn-partners ms-3">
                   Start Free
-                </a>
+                </a> */}
               </div>
               <button
                 class="navbar-toggler border-0 p-0 ms-4"
@@ -38,51 +38,20 @@ const Header = () => {
                     About
                   </a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a
-                    class="nav-link dropdown-toggle "
-                    href="index.html#"
-                    role="button"
-                    data-bs-toggle="dropdown"
-                  >
-                    Service
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html">
+                    Why Us
                   </a>
-                  <ul class="dropdown-menu dropdown-menu1">
-                    <li>
-                      <a class="dropdown-item" href="investment-advice.html">
-                        {" "}
-                        Investment advice{" "}
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="tax-planing.html">
-                        {" "}
-                        Tax Planing{" "}
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="retirement-income.html">
-                        {" "}
-                        Retirement Income Planning{" "}
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="long-term.html">
-                        {" "}
-                        Long term Insurace{" "}
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="education-resources.html">
-                        {" "}
-                        Education & resources{" "}
-                      </a>
-                    </li>
-                  </ul>
                 </li>
                 <li class="nav-item">
+                  <a class="nav-link" href="about.html">
+                    Services
+                  </a>
+                </li>
+
+                <li class="nav-item">
                   <a class="nav-link" href="our-adviser.html">
-                    Our Adviser
+                    Our team
                   </a>
                 </li>
 
@@ -110,27 +79,19 @@ const Header = () => {
                     </svg>
                   </span>
                   <span>
-                    <b class="text-icon"> 1 (857) 81010-00010 </b>
+                    <b class="text-icon">+254 011 125 5274 </b>
                     <br />
                     <a href="index.html#" class="d-inline-block">
-                      {" "}
-                      Any quries? Call us{" "}
+                      Any quries? Call us
                     </a>
                   </span>
                 </div>
                 <a
                   data-bs-toggle="modal"
-                  data-bs-target="#loginModal"
-                  class="btn btn-login ms-5"
-                >
-                  Login
-                </a>
-                <a
-                  data-bs-toggle="modal"
                   data-bs-target="#registerModal"
                   class="btn btn-partners ms-3"
                 >
-                  Start Free
+                 Portal
                 </a>
               </div>
             </div>

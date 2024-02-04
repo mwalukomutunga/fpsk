@@ -6,7 +6,6 @@ const AboutPage = () => {
         <div class="row row-cols-1 row-cols-lg-2 gy-5 g-lg-5 mt-0 align-items-center">
           <div class="col">
             <h6 class="sub-text">
-              {" "}
               <i class="fas fa-circle"></i> About us{" "}
             </h6>
             <h2 class="comon-heading mt-3">
@@ -35,7 +34,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                    <FontAwesomeIcon icon="fa-solid fa-binoculars" />
+                    <img alt="iuo" src="images/2510691.png"/>
                     </figure>
                     <h5> FPSK </h5>
                   </div>
@@ -50,7 +49,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                    <FontAwesomeIcon icon="fa-solid fa-house" />
+                    <img alt="iuo" src="images/1026130.png"/>
                     </figure>
                     <h5>Fodder Unity </h5>
                   </div>
@@ -66,7 +65,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                    <FontAwesomeIcon icon="fa-solid fa-users" />
+                    <img alt="iuo" src="images/9490975.png"/>
                     </figure>
                     <h5> Sustainable Vision </h5>
                   </div>
@@ -83,7 +82,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                    <FontAwesomeIcon icon="fa-solid fa-technology" />
+                    <img alt="iuo" src="images/1962592.png"/>
                     </figure>
                     <h5>Innovation for Growth </h5>
                   </div>

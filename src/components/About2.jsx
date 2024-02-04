@@ -13,15 +13,19 @@ const AboutPage = () => {
               <b> Society of Kenya </b> <span class="d-lg-block"> (FPSK) </span>
             </h2>
             <p class="mt-3">
-              {" "}
-              The Fodder and Pasture Society of Kenya (FPSK) is a non- political
-              non-profit making entity and the apex national body for fodder
-              producers. FPSK aims to support a profitable, sustainable,
-              competitive and innovative Kenyan fodder industry by providing
-              leadership and vision to the country’s nascent fodder industry,
-              engaging with all sectors of the fodder industry value chain to
-              deliver a favourable environment for members to do business both
-              today and into the future.
+              Welcome to the Fodder and Pasture Society of Kenya (FPSK)! As the
+              apex national body for fodder producers, FPSK is a non-political,
+              non-profit entity dedicated to advancing the Kenyan fodder
+              industry. Our mission is clear: to foster a profitable,
+              sustainable, competitive, and innovative sector. We provide
+              industry leadership, representing our members at all levels. FPSK
+              offers access to best-practice guidelines, industry training, and
+              events, ensuring our members are well-equipped for success. By
+              coordinating research, development, and promoting innovation, FPSK
+              continuously elevates industry standards. Join us in cultivating a
+              prosperous, sustainable future for the Kenyan fodder industry.
+              Together, we shape the present and envision an extraordinary
+              future
             </p>
           </div>
           <div class="col">
@@ -35,7 +39,8 @@ const AboutPage = () => {
                     <h5> FPSK </h5>
                   </div>
                   <p>
-                  FPSK is a non-political, non-profit entity and serves as the leading national organization for fodder producers in Kenya.
+                    FPSK is a non-political, non-profit entity and serves as the
+                    leading national organization for fodder producers in Kenya.
                   </p>
                 </div>
               </div>
@@ -49,7 +54,9 @@ const AboutPage = () => {
                     <h5> Sustainable Vision </h5>
                   </div>
                   <p>
-                  The society's mission is to foster a profitable, sustainable, competitive, and innovative Kenyan fodder industry by providing leadership and vision.
+                    The society's mission is to foster a profitable,
+                    sustainable, competitive, and innovative Kenyan fodder
+                    industry by providing leadership and vision.
                   </p>
                 </div>
               </div>
@@ -63,7 +70,9 @@ const AboutPage = () => {
                     <h5>Fodder Unity </h5>
                   </div>
                   <p>
-                  FPSK engages with all fodder industry sectors, offering members representation, access to guidelines, and coordination of training
+                    FPSK engages with all fodder industry sectors, offering
+                    members representation, access to guidelines, and
+                    coordination of training
                   </p>
                 </div>
               </div>
@@ -77,7 +86,9 @@ const AboutPage = () => {
                     <h5>Innovation for Growth </h5>
                   </div>
                   <p>
-                  The society focuses on improving industry standards through innovation, research, and development to support successful and forward-looking businesses.
+                    The society focuses on improving industry standards through
+                    innovation, research, and development to support successful
+                    and forward-looking businesses.
                   </p>
                 </div>
               </div>

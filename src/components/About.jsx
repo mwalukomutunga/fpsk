@@ -53,27 +53,7 @@ const About = () => {
             </div>
           </div>
         </div>
-        <div class="clients-head d-inline-block w-100">
-          <h2 class="text-center">
-          Fodder ni Mali
-          </h2>
-          {/* <div class="client-slider mt-5">
-            <div class="caler-slider owl-carousel owl-theme">
-              <div class="items-logo">
-                <img alt="logo" src="images/Recharge-color.png" />
-              </div>
-              <div class="items-logo">
-                <img alt="logo" src="images/cli-lo.png" />
-              </div>
-              <div class="items-logo">
-                <img alt="logo" src="images/cli-lo1.png" />
-              </div>
-              <div class="items-logo">
-                <img alt="logo" src="images/cli-lo2.png" />
-              </div>
-            </div>
-          </div> */}
-        </div>
+       
       </div>
     </section>
   );

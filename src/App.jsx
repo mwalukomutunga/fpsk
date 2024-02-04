@@ -21,8 +21,9 @@ function App() {
      <Banner/>
      <Wrapper>
       <Summary/>
-      {/* <About/> */}
+     
       <AboutPage/>
+       <About/>
       <Why/>
       <Services/>
     

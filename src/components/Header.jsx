@@ -5,7 +5,7 @@ const Header = () => {
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="container">
             <a class="navbar-brand" href="index.html">
-              <img alt="sr" src="images/logo.png" />
+              <img alt="sr" src="images/logo-fpsk.jpg" width='70px' />
             </a>
             <div class="right-menu-rd d-flex d-lg-none">
               <div class="d-flex align-items-center">

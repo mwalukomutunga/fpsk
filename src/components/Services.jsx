@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const Services = () => {
     return (  
     <section id='services' class="our-services d-inline-block w-100">
@@ -13,7 +14,7 @@ const Services = () => {
                     </div>
                     <div class="text-box-com">
                         <div class="icon-divu">
-                            <img alt="iuo" src="images/2510691.png"/>
+                        <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                         </div>
                         <h5 class="mt-2"> Holistic Member Engagement </h5>
                         <p class="my-2"> Recruitment, Registration, Training, and Networking </p>
@@ -29,7 +30,7 @@ const Services = () => {
                    </div>
                    <div class="text-box-com">
                        <div class="icon-divu">
-                           <img alt="iuo" src="images/5.jpg"/>
+                       <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                        </div>
                        <h5 class="mt-2">Sustainable Fodder Management </h5>
                        <p class="my-2"> Production, Marketing, and Rehabilitation </p>
@@ -46,7 +47,7 @@ const Services = () => {
                  </div>
                  <div class="text-box-com">
                      <div class="icon-divu">
-                         <img alt="iuo" src="images/5.png"/>
+                     <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                      </div>
                      <h5 class="mt-2"> Collaborative Capacity Building </h5>
                      <p class="my-2">Strengthening Partnerships in the Fodder Value Chain </p>
@@ -63,7 +64,7 @@ const Services = () => {
                  </div>
                  <div class="text-box-com">
                      <div class="icon-divu">
-                         <img alt="iuo" src="images/9.png"/>
+                     <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                      </div>
                      <h5 class="mt-2"> Global Networking
                     </h5>
@@ -81,7 +82,7 @@ const Services = () => {
                  </div>
                  <div class="text-box-com">
                      <div class="icon-divu">
-                         <img alt="iuo" src="images/19.png"/>
+                     <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                      </div>
                      <h5 class="mt-2">Policy Shaping </h5>
                      <p class="my-2">  Active Participation in Formulating Fodder Sector Regulations</p>
@@ -98,7 +99,7 @@ const Services = () => {
                  </div>
                  <div class="text-box-com">
                      <div class="icon-divu">
-                         <img alt="iuo" src="images/2.png"/>
+                     <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                      </div>
                      <h5 class="mt-2"> Resource Mobilization and Investment </h5>
                      <p class="my-2"> Securing Support for Fodder Objectives </p>

@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const AboutPage = () => {
   return (
     <section id="about" class="top-lognfs d-inline-block w-100">
@@ -34,7 +35,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                      <img alt="tu" src="images/2510691.png" />
+                    <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                     </figure>
                     <h5> FPSK </h5>
                   </div>
@@ -49,7 +50,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                      <img alt="tu" src="images/900553.png" />
+                    <FontAwesomeIcon icon="fa-solid fa-house" />
                     </figure>
                     <h5>Fodder Unity </h5>
                   </div>
@@ -65,7 +66,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                      <img alt="tu" src="images/3593684.png" />
+                    <FontAwesomeIcon icon="fa-solid fa-users" />
                     </figure>
                     <h5> Sustainable Vision </h5>
                   </div>
@@ -82,7 +83,7 @@ const AboutPage = () => {
                 <div class="best-in">
                   <div class="d-flex align-items-center">
                     <figure class="m-0">
-                      <img alt="tu" src="images/3133430.png" />
+                    <FontAwesomeIcon icon="fa-solid fa-technology" />
                     </figure>
                     <h5>Innovation for Growth </h5>
                   </div>

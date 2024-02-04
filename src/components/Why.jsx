@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const Why = () => {
     return (    <section id='why' class="why-choose-us d-inline-block w-100">
     <div class="container">
@@ -10,7 +11,7 @@ const Why = () => {
                 <div class="lisy-div">
                    <div class="comon-items-list d-flex align-items-center mt-5">
                        <div class="iconu-p">
-                           <img alt="su" src="images/bg1.jpg"/>
+                       <FontAwesomeIcon icon="fa-solid fa-binoculars" />
                        </div>
                        <div class="texrt02">
                           <h5> Vision </h5>
@@ -20,7 +21,7 @@ const Why = () => {
 
                    <div class="comon-items-list d-flex align-items-center mt-5">
                       <div class="iconu-p">
-                          <img alt="su" src="images/bg1.jpg"/>
+                      <FontAwesomeIcon icon="fa-solid fa-vision" />
                       </div>
                       <div class="texrt02">
                         <h5> Mission </h5>
@@ -32,7 +33,7 @@ today and into the future. </p>
 
                    <div class="comon-items-list d-flex align-items-center mt-5">
                       <div class="iconu-p">
-                          <img alt="su" src="images/4337728.png"/>
+                      <FontAwesomeIcon icon="fa-solid fa-users" />
                       </div>
                       <div class="texrt02">
                         <h5>Shared value </h5>

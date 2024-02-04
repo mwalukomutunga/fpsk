@@ -1,12 +1,12 @@
 const Advicers = () => {
   return (
-    <section id ='team'class="advicesr d-inline-block w-100">
+    <section id ='team' class="advicesr d-inline-block w-100">
       <div class="container">
         <h6 class="text-center sub-text justify-content-center">
           {" "}
           <i class="fas fa-circle"></i> Our Team
         </h6>
-        <h2 class="text-center comon-heading mt-3">Meet our fodder Experts</h2>
+        <h2 class="text-center comon-heading mt-3">Meet our National board bearers </h2>
         <div class="team-home-01 owl-carousel owl-theme mt-5">
           <div class="tema-items d-inline-block w-100">
             <div class="m-0 img-box-team01">

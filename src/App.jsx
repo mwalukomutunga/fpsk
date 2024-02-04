@@ -10,6 +10,7 @@ import Why from './components/Why'
 import Services from './components/Services'
 import Testimanials from './components/testimonials'
 import Advicers from './components/Advicers'
+import AboutPage from './components/About2'
 
 function App() {
 
@@ -20,7 +21,8 @@ function App() {
      <Banner/>
      <Wrapper>
       <Summary/>
-      <About/>
+      {/* <About/> */}
+      <AboutPage/>
       <Why/>
       <Services/>
     

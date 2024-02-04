@@ -10,7 +10,7 @@ const Why = () => {
                 <div class="lisy-div">
                    <div class="comon-items-list d-flex align-items-center mt-5">
                        <div class="iconu-p">
-                           <img alt="su" src="images/2510691.png"/>
+                           <img alt="su" src="images/bg1.jpg"/>
                        </div>
                        <div class="texrt02">
                           <h5> Vision </h5>
@@ -20,7 +20,7 @@ const Why = () => {
 
                    <div class="comon-items-list d-flex align-items-center mt-5">
                       <div class="iconu-p">
-                          <img alt="su" src="images/1672190.png"/>
+                          <img alt="su" src="images/bg1.jpg"/>
                       </div>
                       <div class="texrt02">
                         <h5> Mission </h5>
@@ -45,7 +45,7 @@ today and into the future. </p>
             </div>
             <div class="col">
               <figure class="bg-pico d-none d-lg-block">
-                <img alt="s01" src="images/old-are.png"/>
+                <img alt="s01" src="images/16.jpg" height='500px' />
               </figure>
                
             </div>

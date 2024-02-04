@@ -2,7 +2,7 @@ const Banner = () => {
   return (
     <section class="banner-part float-start w-100">
       <figure class="m-0">
-        <img alt="bg-img" src="images/bg1.jpg" />
+        <img alt="bg-img" src="images/11.jpg" />
       </figure>
       <div class="container d-grid align-content-center">
         <div class="col-md-7">

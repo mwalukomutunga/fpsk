@@ -6,159 +6,103 @@ const Advicers = () => {
           {" "}
           <i class="fas fa-circle"></i> Our Team
         </h6>
-        <h2 class="text-center comon-heading mt-3">
-          Meet our fodder Experts
-        </h2>
+        <h2 class="text-center comon-heading mt-3">Meet our fodder Experts</h2>
         <div class="team-home-01 owl-carousel owl-theme mt-5">
           <div class="tema-items d-inline-block w-100">
             <div class="m-0 img-box-team01">
-              <img src="images/team1.webp" class="user-pic" alt="team" />
-              <div class="hover-team d-flex align-items-center justify-content-center">
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/3128304.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/733579.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/300221.png" alt="facebook" />
-                  </figure>
-                </a>
-              </div>
+              <img src="images/Wilson Lelei.jpg" class="user-pic" alt="team" />
+              <div class="hover-team d-flex align-items-center justify-content-center"></div>
+            </div>
+            <div class="tema-details">
+              <h5>
+                Wilson Lelei
+                <span class="d-block">National Vice Chairman</span>
+              </h5>
+            </div>
+          </div>
+          <div class="tema-items d-inline-block w-100">
+            <div class="m-0 img-box-team01">
+              <img src="images/Joyce M Mutua.png" class="user-pic" alt="team" />
+              <div class="hover-team d-flex align-items-center justify-content-center"></div>
             </div>
             <div class="tema-details">
               <h5>
                 {" "}
-                Adams Dan
-                <span class="d-block">Founder</span>
+                Joyce M Mutua
+                <span class="d-block">National Board Chairperson</span>
+              </h5>
+            </div>
+          </div>
+          <div class="tema-items d-inline-block w-100">
+            <div class="m-0 img-box-team01">
+              <img
+                src="images/Laureen .M. Njuguna.jpg"
+                class="user-pic"
+                alt="team"
+              />
+              <div class="hover-team d-flex align-items-center justify-content-center"></div>
+            </div>
+            <div class="tema-details">
+              <h5>
+                {" "}
+                Laureen .M. Njuguna
+                <span class="d-block">National Secretary General</span>
               </h5>
             </div>
           </div>
 
           <div class="tema-items d-inline-block w-100">
             <div class="m-0 img-box-team01">
-              <img src="images/team5.jpg" class="user-pic" alt="team" />
-              <div class="hover-team d-flex align-items-center justify-content-center">
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/3128304.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/733579.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/300221.png" alt="facebook" />
-                  </figure>
-                </a>
-              </div>
+              <img
+                src="images/Samuel Kariuki.png"
+                class="user-pic"
+                alt="team"
+              />
+              <div class="hover-team d-flex align-items-center justify-content-center"></div>
             </div>
             <div class="tema-details">
               <h5>
                 {" "}
-                Klein Smith
-                <span class="d-block">Co-Founder</span>
+                Samuel Kariuki
+                <span class="d-block">Board Treasurer</span>
+              </h5>
+            </div>
+          </div>
+          <div class="tema-items d-inline-block w-100">
+            <div class="m-0 img-box-team01">
+              <img
+                src="images/Edith Wanja John.jpg"
+                class="user-pic"
+                alt="team"
+              />
+              <div class="hover-team d-flex align-items-center justify-content-center"></div>
+            </div>
+            <div class="tema-details">
+              <h5>
+                {" "}
+                Edith Wanja John
+                <span class="d-block">Board Treasurer</span>
               </h5>
             </div>
           </div>
 
           <div class="tema-items d-inline-block w-100">
             <div class="m-0 img-box-team01">
-              <img src="images/team2.jpg" class="user-pic" alt="team" />
-              <div class="hover-team d-flex align-items-center justify-content-center">
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/3128304.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/733579.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/300221.png" alt="facebook" />
-                  </figure>
-                </a>
-              </div>
+              <img
+                src="images/Gabriel Muli.jpg"
+                class="user-pic"
+                alt="team"
+              />
             </div>
             <div class="tema-details">
               <h5>
                 {" "}
-                Frank Duo
-                <span class="d-block">Visa Director</span>
+                Gabriel Muli
+                <span class="d-block">Member</span>
               </h5>
             </div>
           </div>
 
-          <div class="tema-items d-inline-block w-100">
-            <div class="m-0 img-box-team01">
-              <img src="images/team3.jpg" class="user-pic" alt="team" />
-              <div class="hover-team d-flex align-items-center justify-content-center">
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/3128304.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/733579.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/300221.png" alt="facebook" />
-                  </figure>
-                </a>
-              </div>
-            </div>
-            <div class="tema-details">
-              <h5>
-                {" "}
-                Jones Dan
-                <span class="d-block">Migration Agent</span>
-              </h5>
-            </div>
-          </div>
-
-          <div class="tema-items d-inline-block w-100">
-            <div class="m-0 img-box-team01">
-              <img src="images/team4.jpg" class="user-pic" alt="team" />
-              <div class="hover-team d-flex align-items-center justify-content-center">
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/3128304.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/733579.png" alt="facebook" />
-                  </figure>
-                </a>
-                <a href="index.html#" class="btn soc-t">
-                  <figure>
-                    <img src="images/300221.png" alt="facebook" />
-                  </figure>
-                </a>
-              </div>
-            </div>
-            <div class="tema-details">
-              <h5>
-                {" "}
-                Quinn Dan
-                <span class="d-block">Migration Agent</span>
-              </h5>
-            </div>
-          </div>
         </div>
       </div>
     </section>

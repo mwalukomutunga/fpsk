@@ -9,7 +9,7 @@ const Summary = () => {
                 <img src="images/icon-img-4.png" alt="logo" />
               </figure>
               <h5>
-                Affordable
+              Fodder Value Chain
                
               </h5>
             </div>
@@ -21,7 +21,7 @@ const Summary = () => {
                 <img src="images/icon-img-1.png" alt="logo" />
               </figure>
               <h5>
-                online presence
+              Sustainable Fodder Management
                 {/* <span class="d-block"> Lorem Ipsum </span> */}
               </h5>
             </div>
@@ -33,7 +33,7 @@ const Summary = () => {
                 <img src="images/icon-img-3.png" alt="logo" />
               </figure>
               <h5>
-                Expert Staffs
+              Capacity Building
                 {/* <span class="d-block"> Lorem Ipsum </span> */}
               </h5>
             </div>
@@ -45,7 +45,7 @@ const Summary = () => {
                 <img src="images/icon-img-5.png" alt="logo" />
               </figure>
               <h5>
-                secure System
+              Fodder Advocacy 
                 {/* <span class="d-block"> Lorem Ipsum </span> */}
               </h5>
             </div>

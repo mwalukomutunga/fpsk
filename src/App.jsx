@@ -21,8 +21,9 @@ function App() {
      <Wrapper>
       <Summary/>
       <About/>
-      <Services/>
       <Why/>
+      <Services/>
+    
       <Testimanials/>
       <Advicers/>
      </Wrapper>

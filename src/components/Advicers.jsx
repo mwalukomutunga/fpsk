@@ -4,10 +4,10 @@ const Advicers = () => {
       <div class="container">
         <h6 class="text-center sub-text justify-content-center">
           {" "}
-          <i class="fas fa-circle"></i> Our advicesr
+          <i class="fas fa-circle"></i> Our Team
         </h6>
         <h2 class="text-center comon-heading mt-3">
-          Retirement Planing Experts{" "}
+          Meet our fodder Experts
         </h2>
         <div class="team-home-01 owl-carousel owl-theme mt-5">
           <div class="tema-items d-inline-block w-100">

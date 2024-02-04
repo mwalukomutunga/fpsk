@@ -1,6 +1,6 @@
 const Advicers = () => {
   return (
-    <section class="advicesr d-inline-block w-100">
+    <section id ='team'class="advicesr d-inline-block w-100">
       <div class="container">
         <h6 class="text-center sub-text justify-content-center">
           {" "}

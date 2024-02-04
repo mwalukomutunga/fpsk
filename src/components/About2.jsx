@@ -1,6 +1,6 @@
 const AboutPage = () => {
   return (
-    <section class="top-lognfs d-inline-block w-100">
+    <section id="about" class="top-lognfs d-inline-block w-100">
       <div class="container">
         <div class="row row-cols-1 row-cols-lg-2 gy-5 g-lg-5 mt-0 align-items-center">
           <div class="col">

@@ -1,6 +1,6 @@
 const Services = () => {
     return (  
-    <section class="our-services d-inline-block w-100">
+    <section id='services' class="our-services d-inline-block w-100">
        <div class="container">
            <h6 class="text-center sub-text justify-content-center"> <i class="fas fa-circle"></i>  What We do for you</h6>
            <h2 class="comon-heading text-center mt-4"> Our Services</h2>

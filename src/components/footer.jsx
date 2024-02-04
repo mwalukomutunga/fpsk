@@ -12,7 +12,7 @@ const Footer = () => {
                 Together – Repositioning the Fodder and Pasture Value Chains in
                 Kenya for a Competitive Livestock Sub sector.
               </p>
-              <ul>
+              {/* <ul>
                 <li>
                   <a href="index.html#" class="btn socal-links">
                     {" "}
@@ -31,7 +31,7 @@ const Footer = () => {
                     <i class="fab fa-youtube"></i>{" "}
                   </a>
                 </li>
-              </ul>
+              </ul> */}
             </div>
           </div>
           <div class="col all-right-footer d-grid justify-content-lg-center">
@@ -45,19 +45,19 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="about.html">
+                  <a href="index.html#about">
                     {" "}
                     <i class="fas fa-arrow-right"></i> About Us{" "}
                   </a>
                 </li>
                 <li>
-                  <a href="our-adviser.html">
+                  <a href="index.html#team">
                     {" "}
                     <i class="fas fa-arrow-right"></i> Our Team
                   </a>
                 </li>
                 <li>
-                  <a href="blog.html">
+                  <a href="index.html#why">
                     {" "}
                     <i class="fas fa-arrow-right"></i> Why us{" "}
                   </a>

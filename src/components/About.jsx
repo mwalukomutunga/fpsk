@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <section class="about-home d-inline-block w-100">
+    <section id='about' class="about-home d-inline-block w-100">
       <div class="container">
         <h6 class="sub-text text-center mt-3 justify-content-center">
           {" "}

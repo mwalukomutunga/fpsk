@@ -1,5 +1,5 @@
 const Why = () => {
-    return (    <section class="why-choose-us d-inline-block w-100">
+    return (    <section id='why' class="why-choose-us d-inline-block w-100">
     <div class="container">
          <div class="row row-cols-1 row-cols-lg-2">
             <div class="col">

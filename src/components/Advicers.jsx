@@ -6,8 +6,20 @@ const Advicers = () => {
           {" "}
           <i class="fas fa-circle"></i> Our Team
         </h6>
-        <h2 class="text-center comon-heading mt-3">Meet our National board bearers </h2>
+        <h2 class="text-center comon-heading mt-3">Meet our national board bearers </h2>
         <div class="team-home-01 owl-carousel owl-theme mt-5">
+        <div class="tema-items d-inline-block w-100">
+            <div class="m-0 img-box-team01">
+              <img src="images/Joyce M Mutua.png" class="user-pic" alt="team" />
+              <div class="hover-team d-flex align-items-center justify-content-center"></div>
+            </div>
+            <div class="tema-details">
+              <h5>
+                Joyce M Mutua
+                <span class="d-block">National Board Chairperson</span>
+              </h5>
+            </div>
+          </div>
           <div class="tema-items d-inline-block w-100">
             <div class="m-0 img-box-team01">
               <img src="images/Wilson Lelei.jpg" class="user-pic" alt="team" />
@@ -20,19 +32,7 @@ const Advicers = () => {
               </h5>
             </div>
           </div>
-          <div class="tema-items d-inline-block w-100">
-            <div class="m-0 img-box-team01">
-              <img src="images/Joyce M Mutua.png" class="user-pic" alt="team" />
-              <div class="hover-team d-flex align-items-center justify-content-center"></div>
-            </div>
-            <div class="tema-details">
-              <h5>
-                {" "}
-                Joyce M Mutua
-                <span class="d-block">National Board Chairperson</span>
-              </h5>
-            </div>
-          </div>
+
           <div class="tema-items d-inline-block w-100">
             <div class="m-0 img-box-team01">
               <img
